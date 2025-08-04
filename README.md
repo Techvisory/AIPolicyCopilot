@@ -196,7 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [Wiki](link-to-wiki)
 - **Issues**: [GitHub Issues](link-to-issues)
 - **Discussions**: [GitHub Discussions](link-to-discussions)
-- **Email**: support@techvisory.ai
+- **Email**: support@techvisory.io
 
 ## 🗺️ Roadmap
 
@@ -230,4 +230,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by the Techvisory team**
 
-For enterprise inquiries: enterprise@techvisory.ai 
+For enterprise inquiries: enterprise@techvisory.io 
